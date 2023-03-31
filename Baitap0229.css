@@ -1,0 +1,36 @@
+.round {
+    background: ;
+    /* height: 100px;
+    width: 100px; */
+    /* border: 15px solid: black; */
+    border-radius: 50%;
+    display: inline-block;
+    margin: 10px;
+    padding: 50px;
+    color: white;
+    /* text-align: center; */
+    /* vertical-align: middle; */
+}
+/* .circle1, .circle2, .circle3 {
+    background-color: red;
+    border-radius: 100px;
+    border-color: black;
+} */
+.circle1 {
+    background-color: red;
+}
+.circle2 {
+    background-color: green;
+}
+.circle3 {
+    background-color: blue;
+}
+.circle4 {
+    background-color: red;
+}
+.circle5 {
+    background-color: green;
+}
+.circle6 {
+    background-color: blue;
+}
